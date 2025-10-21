@@ -1,8 +1,16 @@
 version="1.9"
 tags={
-	"Overhaul"
+	"Characters"
+	"Historical"
+	"Portraits"
+	"Ironman Compatible"
 	"Total Conversions"
+	"Unit Types"
+	"Overhaul"
+	"Interface"
+	"Flags"
+	"Unit Graphics"
 }
-name="Terra-Indomita"
+name="! Terra Indomita DEV VERSION"
 supported_version="2.*"
 remote_file_id="2856497654"
