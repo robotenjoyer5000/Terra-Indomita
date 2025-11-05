@@ -1,13 +1,13 @@
 ﻿l_english:
  #ACB HERITAGES (TI HERITAGES)
  qin_heritage:0 "Qin Heritage"
- qin_heritage_desc:0 "The Qin excel at organization, with an affinity for reform that has quickly propelled these people to lofty heights involving military and legal matters. Their fearsome armies are disciplined and faithful, the veterans of many successful campaigns, although their inexperience at sea leaves something to be desired - a rare weakness that their many foes hope to exploit."
+ qin_heritage_desc:0 "The Qin excel at organization, with an affinity for reform that has quickly propelled these people to lofty heights in military and government. Their fearsome armies, veterans of many successful campaigns, are disciplined and faithful, although their inexperience at sea leaves something to be desired - a rare weakness that their many foes hope to exploit."
 
  qi_heritage:0 "Qi Heritage"
- qi_heritage_desc:0 "The Qi are a bundle of contradictions to those unfamiliar with their ways; seemingly disorganized, yet inhabiting cities built to exacting standards, blessed with material wealth yet cursed with an uncaring aristocracy that is disinterested in ruling...\nDespite these surface flaws, the Qi respond rapidly to external threats, abandoning the pretense of chaos in favor of a unified response."
+ qi_heritage_desc:0 "The Qi are a bundle of contradictions to those unfamiliar with their ways - seemingly disorganized, yet inhabiting cities built to exacting standards, blessed with material wealth yet cursed with an uncaring aristocracy that is disinterested in ruling. Despite these surface flaws, the Qi respond rapidly to external threats, abandoning the pretense of chaos in favor of a unified response."
 
  zhao_heritage:0 "Zhao Heritage"
- zhao_heritage_desc:0 "Zhao was created in the aftermath of the Partition of Jin, and considering the social upheavals that followed this momentous event, the people of Zhao had to quickly adapt to the new realities presented to them - a task at which they have excelled. Although they struggle to build up the areas they have conquered, their armies are feared for the speed in which they move; a skill the Zhao have honed, due to the constant threats of enemy raids."
+ zhao_heritage_desc:0 "Zhao was born in the aftermath of the Partition of Jin, and its people had to quickly adapt to the new realities presented to them - a task at which they have excelled. Although they struggle to build up the areas they have conquered, their armies are feared for their speed - a skill the Zhao have honed, due to the constant threat of enemy raids."
 
  chu_heritage:0 "Chu Heritage"
  chu_heritage_desc:0 "The Yellow River Basin has given birth to many exceptional cultures, and the Chu are predominant among them. The Chu retain some of their primordial connections to the gods, being blessed with highly gifted shamans, and their music is known for its philosophical musings, revealing the intellectual curiosity that is a hallmark of this people."
@@ -31,10 +31,10 @@
  han_heritage_desc:0 "The Han people traditionally hail from a mountainous region that is difficult for armies to traverse through, and this accident of nature has been embraced by the inhabitants, who have incorporated these defenses into their military doctrines. Their nimble-footed archers train in the rocky defiles and craggy valleys of their homeland, raining devastation upon their foes before they are seen, and disappear into the badlands just as quickly."
 
  yan_heritage:0 "Yan Heritage"
- yan_heritage_desc:0 "Nestled between the wild Steppe kingdoms to the North and the settled civilizations of the South, the Yan find themselves with one foot firmly planted in both camps; seeing the value in maintaining a strong network of fortifications, a trick they learned from their civilized neighbors, the Yan also emphasize a powerful cavalry, no doubt due to their frequent skirmishes with the barbarian hordes."
+ yan_heritage_desc:0 "Nestled between the wild Steppe kingdoms to the North and the settled civilizations of the South, the Yan find themselves with one foot firmly planted in both camps. Seeing the value in maintaining a strong network of fortifications, a trick they learned from their civilized neighbors, the Yan also emphasize a powerful cavalry, no doubt due to their frequent skirmishes with the barbarian hordes."
 
  zhou_heritage:0 "Zhou Heritage"
- zhou_heritage_desc:0 "To be a part of the Zhou is to partake of an honor with practically no equal, for it was the Zhou that laid low the power of the Shang, establishing an illustrious Dynasty that survives into present times. Although the military hegemony of the Zhou is a shadow of what it once was, being forced by circumstance to rely on the vassalship of ambitious warlords, it would be premature to claim that the glory days of the Zhou are gone forever."
+ zhou_heritage_desc:0 "To be Zhou is to partake in prestige and honor without parallel, for it was the Zhou that laid low the Shang and established an illustrious dynasty. Although the military hegemony of the Zhou is a shadow of what it once was, being forced by circumstance to rely on the vassalship of ambitious warlords, it would be premature to claim that the glory days of the Zhou are gone forever."
 
  goguryeo_heritage:0 "Goguryeo Heritage"
  goguryeo_heritage_desc:0 "The Goguryeo made the decision long ago to eschew the trappings of the civilized world, preferring to trust in their daunting fortifications and archer's bowstrings rather than relying on the pampered musings of a philosopher's treatise to guide their people. They are rumored to be the best bowmen the world has ever seen, never allowing their enemies the chance to test the strength of their city walls."
@@ -394,8 +394,8 @@
  bie_heritage_desc:0 "The clans of the Bie were part of the larger Bo culture who were famed for leaving hanging coffins in columns against rock faces. Sometimes called the Pu in Chinese records, the Bo may have been part of the famed 'Hundred Pu.' The Bie themselves, ruled at one time by a famed 'Bie Ling' (the leader of the turtle people), led the Bie westwards to their current home."
 
  # Xiou
- xiou_heritage:0 "Xiou Heritage"
- xiou_heritage_desc:0 "The people of Xiou, also known as the folk of Western Ou, have long been locked in the trappings of the southern Chinese jungle, close but never reaching the wealth of the coast to their south. On account of their disadvantageous geography and lack of manpower and wealth, they were often bullied by and at the mercy of more centralized and powerful groups, such as the successive kingdoms of the Nanyue people. For this reason, their history has more often been one of subjugation and not one of conquest."
+ xiou_heritage:0 "Xi'ou Heritage"
+ xiou_heritage_desc:0 "The people of Xi'ou, also known as the folk of Western Ou, have long been locked in the trappings of the southern Chinese jungle, close but never reaching the wealth of the coast to their south. On account of their disadvantageous geography and lack of manpower and wealth, they were often bullied by and at the mercy of more centralized and powerful groups, such as the successive kingdoms of the Nanyue people. For this reason, their history has more often been one of subjugation and not one of conquest."
 
  # Gui
  gui_heritage:0 "Gui Heritage"
@@ -403,11 +403,11 @@
 
  # Lac Viet
  lac_viet_heritage:0 "The Red River Heritage"
- lac_viet_heritage_desc:0 "Inhabiting the Red River Delta as early as 700 BCE, the Lac Viet people would sound their bronze drums out all listeners along the riverbed into the middle of the night. Legend tells how they once lived in a kingdom called Van Lang, where Lac princes, lords, and even kings held power over the people in an early feudal-style system. While they were not the most advanced people, one may have considered them more fair, for the women among the Lac Viet held a high status and were well-respected."
+ lac_viet_heritage_desc:0 "Inhabiting the Red River Delta as early as 700 BCE, the Lac Viet people would play their bronze drums to all in the middle of the night. Legend tells how they once lived in a kingdom called Van Lang, where Lac princes, lords, and even kings held power over the people in an early feudal-style system. While they were not the most advanced people, one may have considered them more fair, for the women among the Lac Viet held a high status and were well-respected."
 
  # Yueshang
  yueshang_heritage:0 "The Dragon-Fairy Heritage"
- yueshang_heritage_desc:0 "The Dong Son people of Yueshang, brothers and sisters to the Lac Viet groups inhabiting the Red River Delta, have been around since at least 1,000 BCE. Skilled rice cultivators and animal herdsmen, the people of Yueshang had full bellies and much raw material to trade along the coastal roads. They, also being bronze-castors, were famed for the bronze drums found in their burials - they made these using a lost-wax casting process borrowed from the Chinese to the far north. It is said that their rulers, the descendants of the semi-legendary Hung Kings, trace their lineage all the way back to the ancient and godly Lac Long Quan and his fairy consort Au Co - the people of Yueshang were thus half dragon and half fairy."
+ yueshang_heritage_desc:0 "The Dong Son people of Yueshang, siblings to the Lac Viet groups inhabiting the Red River Delta, have been around since at least 1,000 BCE. Skilled rice cultivators and animal herdsmen, the people of Yueshang had full bellies and much raw material to trade along the coastal roads. They, also being bronze-castors, were famed for the bronze drums found in their burials - they made these using a lost-wax casting process borrowed from the Chinese to the far north. It is said that their rulers, the descendants of the semi-legendary Hung Kings, trace their lineage all the way back to the ancient and godly Lac Long Quan and his fairy consort Au Co - the people of Yueshang were thus half dragon and half fairy."
 
  # Lamap
  lamap_heritage:0 "Lamap Heritage"
@@ -427,11 +427,11 @@
 
  # Yangyu
  yangyu_heritage:0 "Miao Remnant Heritage"
- yangyu_heritage_desc:0 "The Yangu existed as a dispersed remnant of the ancient Miao people and the San Miao kingdom they once populated by the dominance of the Chu. All Miao people were said to have descended from the legendary Jiuli tribe, but they were defeated by Yu the Great in battles and were thus dispersed by the encroaching Yue peoples. The rest were subjugated by the Chinese of the Central Plains region. Yangyu, practically a Chu puppet, remains as the last glimpse of Miao independence and greatness."
+ yangyu_heritage_desc:0 "The Yangyu existed as a dispersed remnant of the ancient Miao people and the San Miao kingdom they once populated by the dominance of the Chu. All Miao people were said to have descended from the legendary Jiuli tribe, but they were defeated by Yu the Great in battles and were thus dispersed by the encroaching Yue peoples. The rest were subjugated by the Chinese of the Central Plains region. Yangyu, practically a Chu puppet, remains as the last glimpse of Miao independence and greatness."
 
  # Fulou
  fulou_heritage:0 "Heritage of Watery Pearls"
- fulou_heritage_desc:0 "With its capital of Fanyu situated on the eastern bank of the Pearl River, the people of Fulou were guaranteed a rich legacy in trade and commerce. Its port controlled all trade and shipping into and out of the river and its bay and was the prime location to filter all the goods which could disperse into the hinterlands or leave for island markets. The people of Fanyu belonged to the greater Southern Yue group, but the city they prospered in had its origins as far back as 1,100 BCE. From a military standpoint, this place was also the best vantage point and staging ground from which to guard the southern coastline and also to plan its conquest."
+ fulou_heritage_desc:0 "With its capital of Fanyu situated on the eastern bank of the Pearl River, the people of Fulou were guaranteed a rich legacy in trade and commerce. Its port controlled all trade and shipping in and out of the river, and its bay was the prime location to filter goods heading into the hinterlands or leave for island markets. The people of Fanyu belonged to the greater Southern Yue group, but the city they prospered in had its origins as far back as 1100 BCE. From a military standpoint, this place was also the best vantage point and staging ground from which to guard the southern coastline and also to plan its conquest."
 
  ### Pacific Islander TI Heritages
  # Pingu

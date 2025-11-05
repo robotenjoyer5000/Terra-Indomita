@@ -72,6 +72,79 @@
 		ai_will_do = {
 			base = 1
 		}
-	}
 
+			#Up here to ensure that there will be some Huaxia pops
+			#before switching culture, otherwise primary culture will not change
+			capital_scope = {
+				establish_city_effect = yes
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+
+			custom_tooltip = "switch_to_huaxia_culture"
+			#Change up to 1,000 old culture pops to new culture
+			hidden_effect = {
+				every_owned_province = {
+					while = {
+						count = 1000
+						every_pops_in_province = {
+							limit = {
+								culture = root.culture
+								OR = { culture = yan }
+								OR = { culture = qin }
+								OR = { culture = qilu }
+								OR = { culture = xu }
+								OR = { culture = yaan }
+								OR = { culture = jin }
+								OR = { culture = ji }
+								OR = { culture = chu }
+								OR = { culture = duhu }
+								OR = { culture = zhongyuan }
+							}
+							set_pop_culture = huaxia
+						}
+					}
+				}
+			}
+
+			custom_tooltip = "switch_characters_to_huaxia_culture"
+			hidden_effect = {
+				change_country_tag = HXA 
+				change_country_adjective = HXA_ADJ
+				change_country_color = huaxia_color
+				#Change all old culture characters to new culture			
+				every_character = {
+					limit = {
+						AND = {
+							OR = {
+								from_ruler_family = yes
+								is_minor_character = no
+							}
+							has_culture = root.culture
+							OR = { has_culture = yan }
+							OR = { has_culture = qin }
+							OR = { has_culture = qilu }
+							OR = { has_culture = xu }
+							OR = { has_culture = yaan }
+							OR = { has_culture = jin }
+							OR = { has_culture = ji }
+							OR = { has_culture = chu }
+							OR = { has_culture = duhu }
+							OR = { has_culture = zhongyuan }
+						}
+					}
+					set_culture = huaxia
+				}
+				set_primary_culture_cleanup_effect = {
+					NEW_PRIMARY_CULTURE = huaxia
+					MAKE_OLD_CULTURE_INTEGRATED = yes
+				}
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
 }

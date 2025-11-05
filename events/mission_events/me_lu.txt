@@ -7,9 +7,9 @@ me_lu.1 = {
     desc = me_lu_1_desc
     picture = Wang_Hui_19_event
 	left_portrait = root.current_ruler
-	left_portrait = char:594
+	left_portrait = char:1594
 	right_portrait = scope:lu_marshal
-	right_portrait = char:614
+	right_portrait = char:1614
 	
 	immediate = {
 		random_character = {
